@@ -1,6 +1,6 @@
 {
   "name": "beautiful-portfolio",
-  "homepage": "https://machadop1407.github.io/pedrotech-portfolio",
+  "homepage": "https://machadop1407.github.io/Santiago-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,11 +13,11 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.0.0",
+    "@tailwindcss/vite": "^4.1.6",
     "emailjs-com": "^3.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "tailwindcss": "^4.0.0"
+    "tailwindcss": "^4.1.6"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
