@@ -1,9 +1,9 @@
 import { RevealOnScroll } from "../RevealOnScroll"
 
 export default function AboutPage() {
-  const frontendSkills = ["React", "Vue", "TypeScript", "TailwindCSS", "Svelte"]
+  const frontendSkills = ["React", "React-Native", "TypeScript", "TailwindCSS"]
 
-  const backendSkills = ["Node.js", "Python", "AWS", "MongoDB", "GraphQL"]
+  const backendSkills = ["Node.js", "Cloudflare", "mySQL", "MongoDB", "noSQL"]
 
   return (
     <section className="min-h-screen flex items-center justify-center py-20">
@@ -15,8 +15,8 @@ export default function AboutPage() {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Innovative Developer who enjoys resolving complicated problems. As well as discovering and learning new
-              technologies.
+            Constructive full-stack developer with vast knowledge of JavaScript and its most popular frameworks, including React, React Native, Astro, MongoDB, and Hono among others along with dominance on computer skills such as Mircrosoft Office applications and Windows Terminal && macOS terminal. Seeking position on the Technology Industry.
+
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
